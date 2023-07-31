@@ -115,7 +115,7 @@
     </link>
 
     <gazebo reference="left_wheel">
-        <material>Gazebo/Yellow/material
+        <material>Gazebo/Yellow</material>
     </gazebo>
 
 
